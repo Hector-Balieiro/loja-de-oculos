@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/loja-de-oculos/static/css/main.3b1b4059.css",
+    "main.js": "/loja-de-oculos/static/js/main.9b411e26.js",
+    "static/js/787.b69064a0.chunk.js": "/loja-de-oculos/static/js/787.b69064a0.chunk.js",
+    "static/media/capa.png": "/loja-de-oculos/static/media/capa.44a9e1db5439c08db3da.png",
+    "index.html": "/loja-de-oculos/index.html",
+    "main.3b1b4059.css.map": "/loja-de-oculos/static/css/main.3b1b4059.css.map",
+    "main.9b411e26.js.map": "/loja-de-oculos/static/js/main.9b411e26.js.map",
+    "787.b69064a0.chunk.js.map": "/loja-de-oculos/static/js/787.b69064a0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b1b4059.css",
+    "static/js/main.9b411e26.js"
+  ]
+}
